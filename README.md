@@ -21,6 +21,7 @@ Welcome to see my projects
 <code><img height="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hibernate.svg"></code>
 <code><img height="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
 <code><img height="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg"></code>
+<code><img height="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/elasticsearch.svg"></code>
 <code><img height="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
 <code><img height="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
 <code><img height="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v5/icons/anaconda.svg"></code>
