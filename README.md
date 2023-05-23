@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lilylovescoding&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
-
 ### 👩‍💻 About me
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
