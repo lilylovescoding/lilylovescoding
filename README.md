@@ -7,7 +7,7 @@
 Welcome to see my projects
   - [Personal Technique Blog](https://github.com/lilylovescoding/lilylovescoding.github.io)
   - [LeetCode Solution](https://github.com/lilylovescoding/LeetCode.git)
-  - [London DateDive Competition](https://media.kcl.ac.uk/media/DataDive2021_Team5_How+has+cycling+relevant+street+infrastructure+changed+in+London+and+suggest+for+future/1_ilmylago)
+  - [London DateDive Competition](https://github.com/lilylovescoding/London-DataDive-CUSP-Competition)
   - [Block Chain Frontend Practice](https://github.com/lilylovescoding/BlockChain.git)
  
 **Skills:**
